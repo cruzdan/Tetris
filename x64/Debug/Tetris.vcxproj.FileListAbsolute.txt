@@ -1,0 +1,2 @@
+C:\Users\Cruz\source\repos\Tetris\x64\Debug\Tetris.exe
+C:\Users\Cruz\source\repos\Tetris\x64\Debug\Tetris.pdb
